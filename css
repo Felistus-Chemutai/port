@@ -1,0 +1,8 @@
+ body{
+    background-image:./;
+	 background-size: cover;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+    margin-top: 80px;
+    padding: 30px
+
+ }
